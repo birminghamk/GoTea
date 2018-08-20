@@ -1,8 +1,33 @@
-# client
+## GoTea
 
-> A Vue.js project
+    Live link: Coming Soon!
 
-## Build Setup
+# Overview:
+
+    A MEVN app for information about various types of tea, including their history, variations and health benefits.
+
+# Technologies/Software
+
+    - Vue.js
+    - MongoDB
+    - Express.js
+    - CSS Flexbox
+    - CSS Grid
+    - Node.js
+        - npm packages:
+            -client:
+                - axios
+                - vue
+                - vue-router
+            -server:
+                - express
+                - nodemon
+                - cors
+                - morgan
+                - body-parser
+
+# Author
+    - Kate Birmingham
 
 ``` bash
 # install dependencies
@@ -26,5 +51,3 @@ npm run e2e
 # run all tests
 npm test
 ```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
